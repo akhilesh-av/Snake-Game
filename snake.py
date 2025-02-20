@@ -4,7 +4,7 @@ import time
 import random
 #import tkinter as TK
 
-#intilization o
+#intilization 
 
 #intilization of variables
 delay = 0.1
