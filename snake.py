@@ -3,7 +3,7 @@ import turtle
 import time
 import random
 #import tkinter as TK
-# hellokitty
+
 
 
 #intilization of variables
