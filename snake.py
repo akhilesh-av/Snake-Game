@@ -4,8 +4,6 @@ import time
 import random
 #import tkinter as TK
 
-#intilizatio
-
 #intilization of variables
 delay = 0.1
 score = 0
